@@ -1,10 +1,7 @@
 
-# Big Data Coursework
+# Big Data Processing
 
 
-This is a ECS640U - Big Data Processing coursework for third year MSci Computer Science at Queen Mary University of London.
--
-Coursework description:
 
 Analysis of Ethereum Transactions and Smart Contracts
 The goal of this coursework is to apply the techniques covered in the first half of Big Data Processing to analyse the full set of transactions which have occurred on the Ethereum network; from the first transactions in August 2015 till June 2019. You will create several Map/Reduce or Spark programs to perform multiple types of computation. You will submit a report containing your results alongside an explanation of how they were obtained.
